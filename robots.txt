@@ -1,0 +1,4 @@
+user-agent: *
+allow: /
+
+sitemap: https://selebnews.github.io/glamourtales/sitemap_index.xml
